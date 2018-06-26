@@ -1,6 +1,11 @@
 {
   "expo": {
-    "sdkVersion": "27.0.0"
+    "sdkVersion": "27.0.0",
+    "name": "React native expo",
+    "slug": "react-native-expo",
+    "description": "React native expo",
+    "version": "0.0.1",
+    "orientation": "portrait"
   },
   "updates": {
     "enabled": true,
